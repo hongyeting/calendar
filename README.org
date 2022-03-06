@@ -17,7 +17,12 @@
 |7、8节||遗传实验|生信实验|概率论|分子实验|||
 |10、11/12节|管理学||生物数学建模|遗传讨论|事业人生|||
 
-```diff
-# text in gray
-```
+(custom-set-faces
+ '(org-block-begin-line
+   ((t (:underline "#A7A6AA" :foreground "#008ED1" :background "#EAEAFF" :extend t))))
+ '(org-block
+   ((t (:background "#EFF0F1" :extend t))))
+ '(org-block-end-line
+   ((t (:overline "#A7A6AA" :foreground "#008ED1" :background "#EAEAFF" :extend t))))
+ )
 
