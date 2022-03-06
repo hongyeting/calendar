@@ -1,5 +1,3 @@
-'''org
-
 * 日程
 
 ** 课表
@@ -18,30 +16,8 @@
 |5、6节||遗传实验|生信实验||分子实验|||
 |7、8节||遗传实验|生信实验|概率论|分子实验|||
 |10、11/12节|管理学||生物数学建模|遗传讨论|事业人生|||
-'''
-
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
 ```diff
-- text in red
-+ text in green
-! text in orange
 # text in gray
-@@ text in purple (and bold)@@
 ```
 
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
-// etc.
