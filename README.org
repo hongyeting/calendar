@@ -16,3 +16,6 @@
 |5、6节||遗传实验|生信实验||分子实验|||
 |7、8节||遗传实验|生信实验|概率论|分子实验|||
 |10、11/12节|管理学||生物数学建模|遗传讨论|事业人生|||
+
+<font color="green"> Some green text </font>
+<span style="color: green"> Some green text </span>
